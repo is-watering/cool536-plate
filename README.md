@@ -1,2 +1,2 @@
 # cool536-plate
-cool536's FR4 plate data 
+cool536's plate data 
