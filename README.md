@@ -1,10 +1,9 @@
 # cool536-plate
-
 <img src="img/mounting-example.jpg" width="80%">
 
 Original cool536: https://github.com/telzo2000/cool536
 
-## Dependency
+## Dependency (FR4-Plate)
 * [Salicylic-acid3/KiCAD_FootPrint](https://github.com/Salicylic-acid3/KiCAD_FootPrint)
 
 ## Notes
